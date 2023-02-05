@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j-ma-walsh  (Jamie Walsh)
+- 👋 Hi, I’m Jamie Walsh
 
 - 👀 I’m interested in developing a career in data science and technology.
 
